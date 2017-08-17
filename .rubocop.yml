@@ -41,18 +41,18 @@ Style/PercentLiteralDelimiters:
     '%W': '()'
 
 # Allow empty lines around class body
-EmptyLinesAroundClassBody:
+Layout/EmptyLinesAroundClassBody:
   Enabled: false
 
 Layout/MultilineMethodCallIndentation:
   Enabled: false
 
 # Allow empty lines around module body
-EmptyLinesAroundModuleBody:
+Layout/EmptyLinesAroundModuleBody:
   Enabled: false
 
 # Allow empty lines around block body
-EmptyLinesAroundBlockBody:
+Layout/EmptyLinesAroundBlockBody:
   Enabled: false
 
 # Limit line length
