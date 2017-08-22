@@ -8,7 +8,8 @@ In `.rubocop.yml` add the follow to get started using the hint rubocop config.
 
 ```yaml
 inherit_from:
-  - https://github.com/hintmedia/hint_style_config/blob/master/.hint_rubocop.yml
+  - https://raw.githubusercontent.com/hintmedia/hint_style_config/master/.hint_rubocop.yml
+
 AllCops:
   TargetRubyVersion: PROJECT_RUBY_VERSION
   TargetRailsVersion: PROJECT_RAILS_VERSION
