@@ -2,4 +2,8 @@
 
 This repo contains our current base configs for style and linting.
 
-[Hint Rubocop Style](https://github.com/hintmedia/hint-rubocop_style)
+Rubocop and ESLint configs
+
+* [Hint Rubocop Style](https://github.com/hintmedia/hint-rubocop_style)
+
+* [Hint ESLint Config](https://github.com/hintmedia/eslint-config-hint)
